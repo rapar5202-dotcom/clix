@@ -1,0 +1,7 @@
+{
+  "name": "Clix",
+  "description": "A clean, fast social media experience inspired by X. Short posts, public conversations, and modern design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
